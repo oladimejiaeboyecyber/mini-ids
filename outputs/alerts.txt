@@ -1,0 +1,408 @@
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 192.168.0.1
+Unique Ports: 197
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 213.155.151.149
+Unique Ports: 29
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 213.155.151.155
+Unique Ports: 16
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.116
+Unique Ports: 14
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.85
+Unique Ports: 10
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.89
+Unique Ports: 10
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.90
+Unique Ports: 6
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 192.168.0.1
+Total Packets: 425
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 192.168.0.2
+Total Packets: 2687
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 192.168.0.50
+Total Packets: 707
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 192.168.0.51
+Total Packets: 2460
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 213.155.151.149
+Total Packets: 145
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 213.155.151.155
+Total Packets: 4351
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.116
+Total Packets: 191
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.85
+Total Packets: 119
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.89
+Total Packets: 2807
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-25 18:09:42
+Source IP: 80.239.174.90
+Total Packets: 113
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 192.168.0.1
+Unique Ports: 197
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 213.155.151.149
+Unique Ports: 29
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 213.155.151.155
+Unique Ports: 16
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.116
+Unique Ports: 14
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.85
+Unique Ports: 10
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.89
+Unique Ports: 10
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.90
+Unique Ports: 6
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 192.168.0.1
+Total Packets: 425
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 192.168.0.2
+Total Packets: 2687
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 192.168.0.50
+Total Packets: 707
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 192.168.0.51
+Total Packets: 2460
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 213.155.151.149
+Total Packets: 145
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 213.155.151.155
+Total Packets: 4351
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.116
+Total Packets: 191
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.85
+Total Packets: 119
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.89
+Total Packets: 2807
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-03-28 12:45:37
+Source IP: 80.239.174.90
+Total Packets: 113
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 192.168.0.1
+Unique Ports: 197
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 213.155.151.149
+Unique Ports: 29
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 213.155.151.155
+Unique Ports: 16
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.116
+Unique Ports: 14
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.85
+Unique Ports: 10
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.89
+Unique Ports: 10
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Port Scan Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.90
+Unique Ports: 6
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 192.168.0.1
+Total Packets: 425
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 192.168.0.2
+Total Packets: 2687
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 192.168.0.50
+Total Packets: 707
+Severity: MEDIUM
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 192.168.0.51
+Total Packets: 2460
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 213.155.151.149
+Total Packets: 145
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 213.155.151.155
+Total Packets: 4351
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.116
+Total Packets: 191
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.85
+Total Packets: 119
+Severity: LOW
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.89
+Total Packets: 2807
+Severity: HIGH
+========================================
+
+========================================
+[ALERT] Packet Flood Detected
+Logged at: 2026-04-01 18:20:37
+Source IP: 80.239.174.90
+Total Packets: 113
+Severity: LOW
+========================================
+
