@@ -41,6 +41,7 @@ def parse_pcap(file_path):
     return df
 
 df = parse_pcap('data/snort.log.1425572414')
+open("outputs/alerts.txt", "w").close()
 detect_portscan(df)
 detect_suspicious_ports(df)
 detect_packet_flood(df)
