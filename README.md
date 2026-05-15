@@ -51,3 +51,8 @@ Generates charts showing:
 ---
 
 ## Project Structure
+Built a hybrid IDS from scratch that analyzes real network traffic from PCAP files using signature-based and ML-based detection
+• Implemented 3 signature detection rules (port scan, packet flood, suspicious ports) that detected 17 confirmed attacks across 14,968 packets
+• Integrated Isolation Forest machine learning algorithm to detect 150 network anomalies without predefined rules
+• Engineered an alert engine that classifies threats as HIGH/MEDIUM/LOW severity and logs structured alerts to file
+• Evaluated system performance using precision, recall, F1 score and confusion matrix achieving 100% recall on known attack traffic
